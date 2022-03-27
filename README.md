@@ -21,3 +21,5 @@ Pull requestler kabul edilir. Bütyük değişiklikler için, lütfen önce neyi
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Print Screen](https://github.com/replikyazilim/kodluyoruzilkrepo/blob/main/gıthubilkrepo.png)
